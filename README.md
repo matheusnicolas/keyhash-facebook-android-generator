@@ -1,5 +1,5 @@
-## Keyhash Generator for Facebook integration on Android
+﻿## Keyhash Generator for Facebook integration on Android
   
- * In case you had problems with OpenSSL to run the keytool command to generate a keyhash for your android application, which you want to integrate with facebook, use this code snippet in your own Activity and generate your keyhash.
+ * Having problems to generate your keyhash on Facebook-Android integration? Just throw this code on your OnCreate and run your application, later check your Logcat and get your Keyhash.
  
- * Caso você tenha problemas com o OpenSSL para executar o comando keytool com o objetivo de gerar uma keyhash para sua aplicação Android, cuja você deseja integrar com o Facebook, use esse trecho de código em sua Activity e gere sua própria keyhash.
+ * Tendo problemas ao tentar gerar sua keyhash para integração do Facebook com Android? Apenas jogue este trecho de código no onCreate e rode sua aplicação, em seguida, cheque o Logcat para obter sua Keyhash.
